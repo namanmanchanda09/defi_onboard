@@ -1,4 +1,14 @@
 # DeFi Onboard
+Simplifying the DeFi onboarding user experience for the next billion users
+
+## Project Summary
+DeFi Onboard simplifies the DeFi onboarding user experience for the next billion users. It uses common metaphors to 
+give the user instantaneous knowledge about how to interact with the user interface.
+
+Users can login with their Google, Facebook, Twitch, Reddit or Discord account to get their
+own DeFi web wallet. User's can send or receive ETH using Ethereum Address, Google Email, 
+Reddit Username or Discord Id. User's can top up their wallet using fiat onramp. User's can
+deposit ETH to earn interest using aETH tokens. User's can redeem aETH tokens to get ETH back whenever they want.
 
 ## Project Launch Page
 https://defi-onboard.netlify.com/
