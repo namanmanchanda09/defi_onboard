@@ -16,7 +16,7 @@ Pitch Deck: https://docs.google.com/presentation/d/1KJ3rIxuBVcomG5HVa7gzIu5e90JK
 Video Demo: https://youtu.be/EK3BxwhljfY
 
 ## Project Launch Page
-https://defi-onboard.netlify.com/
+https://defi-onboard.netlify.com/ (Kovan testnet)
 
 ## Screenshots
 
