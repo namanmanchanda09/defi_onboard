@@ -213,6 +213,7 @@ class App extends React.Component {
                             <div><p className="h5">Send ETH using Ethereum Address / Social Network username</p></div>
                             <div style={{marginBottom: "10px"}}>
                                 <select className="form-control"
+                                        value={this.state.transaction.receiver_network}
                                         onChange={e => this.updatePaymentDetails('receiver_network', e.target.value)}>
                                     <option value="ethereum">Ethereum Address</option>
                                     <option value="google">Google Email</option>
