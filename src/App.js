@@ -6,9 +6,9 @@ import {Navbar, Card, CardGroup} from 'react-bootstrap';
 import LendingPool from "./LendingPool.json";
 import AToken from "./AToken.json";
 
-const ethAddress = '0x804C0B38593796bD44126102C8b5e827Cf389D80';
-const lendingPoolAddress = '0xB36017F5aafDE1a9462959f0e53866433D373404';
-const aethAddress = '0x436264Ac032f7f271934Fa920dcD655210193090';
+const ethAddress = '0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE';
+const lendingPoolAddress = '0x9E5C7835E4b13368fd628196C4f1c6cEc89673Fa';
+const aethAddress = '0x2433A1b6FcF156956599280C3Eb1863247CFE675';
 
 class App extends React.Component {
     state = {
@@ -46,7 +46,7 @@ class App extends React.Component {
         const contract = new web3Obj.web3.eth.Contract(LendingPool, lendingPoolAddress);
         let data = await contract.methods.getUserReserveData(ethAddress, accounts[0]).call();
         this.setState({
-            ethReserve: data["currentUnderlyingBalance"],
+            ethReserve: data["currentATokenBalance"],
             aethReserve: data["currentATokenBalance"]
         });
     };
