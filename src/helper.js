@@ -15,9 +15,9 @@ const web3Obj = {
             buildEnv: "production", // default: production
             enableLogging: false, // default: false
             network: {
-                host: "kovan", // default: mainnet
+                host: "ropsten", // default: mainnet
                 chainId: 42, // default: 1
-                networkName: "Kovan Test Network" // default: Main Ethereum Network
+                networkName: "ropsten" // default: Main Ethereum Network
             },
             showTorusButton: false // default: true,
         });
