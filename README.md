@@ -11,9 +11,8 @@ Reddit Username or Discord Id. User's can top up their wallet using fiat onramp.
 deposit ETH to earn interest using aETH tokens. User's can redeem aETH tokens to get ETH back whenever they want.
 
 ## Link to Ancillary Material
-Pitch Deck: https://docs.google.com/presentation/d/1KJ3rIxuBVcomG5HVa7gzIu5e90JKH7GLwZn_vTqajqI/
 
-Video Demo: https://youtu.be/EK3BxwhljfY
+Video Demo: https://youtu.be/G12VB0BIkzM
 
 ## Project Launch Page
 https://defi-onboard.netlify.com/ (Ropsten testnet)
