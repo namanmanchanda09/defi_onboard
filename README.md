@@ -10,11 +10,11 @@ own DeFi web wallet. User's can send or receive ETH using Ethereum Address, Goog
 Reddit Username or Discord Id. User's can top up their wallet using fiat onramp. User's can
 deposit ETH to earn interest using aETH tokens. User's can redeem aETH tokens to get ETH back whenever they want.
 
-## Link to Ancillary Material
+## Video Demo
 
-Video Demo: https://youtu.be/G12VB0BIkzM
+https://youtu.be/G12VB0BIkzM
 
-## Project Launch Page
+## App Demo
 https://defi-onboard.netlify.com/ (Ropsten testnet)
 
 ## Screenshots
